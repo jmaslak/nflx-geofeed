@@ -496,7 +496,7 @@
 2a00:86c0:1008::/47,US,US-TX,Dallas-Fort Worth,
 2a00:86c0:1012::/47,US,US-NY,New York,
 2a00:86c0:1014:1014::/64,US,US-CO,Denver,
-482a00:86c0:1015::/48,US,US-CO,Denver,
+2a00:86c0:1015::/48,US,US-CO,Denver,
 2a00:86c0:1018::/48,BR,BR-RS,Porto Alegre,
 2a00:86c0:1021::/48,BR,BR-SP,Sao Paulo,
 2a00:86c0:1026::/47,SE,SE-AB,Stockholm,
